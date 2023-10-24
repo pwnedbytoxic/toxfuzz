@@ -1,6 +1,6 @@
 # ToxFuzz - Simple Python API Fuzzer
 
-ToxFuzz is a basic API fuzzer written in Python using standard libraries. It's designed to help you identify potential vulnerabilities in your web APIs by sending various input payloads and observing the behavior of the API in response. This tool is lightweight and easy to use, making it a valuable addition to your security testing toolkit. It may also be used for bug bounty purposes, but I take no responsibility in any unauthorized access the use of this tool may warrant.
+ToxFuzz is a basic API fuzzer written in Python using standard libraries. It's designed to help you identify potential vulnerabilities in your web APIs by sending various input payloads and observing the behavior of the API in response. This tool is lightweight and easy to use, making it a valuable addition to your security testing toolkit. It may also be used for bug bounty purposes, but I take no responsibility for any unauthorized access the use of this tool may warrant.
 
 ## Features
 
