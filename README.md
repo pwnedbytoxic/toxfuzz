@@ -21,7 +21,7 @@ Follow these simple steps to get ToxFuzz up and running:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/toxfuzz.git
+   git clone https://github.com/pwnedbytoxic/toxfuzz.git
    ```
 2. `cd` into the directory:
    ```bash
@@ -31,7 +31,7 @@ Follow these simple steps to get ToxFuzz up and running:
    ```bash
    cat medium.txt | python3 toxfuzz.py
    ```
-     - You must change `https://example.com/api/` into your own api
+  - You must change `https://example.com/api/` into your own api
 4.  Toxfuzz will start sending the payloads to the specified API endpoint and display the responses.
 
 ---
