@@ -31,7 +31,7 @@ Follow these simple steps to get ToxFuzz up and running:
    ```bash
    cat medium.txt | python3 toxfuzz.py
    ```
-  - You must change `https://example.com/api/` into your own api
+     - You must change `https://example.com/api/` into your own api
 4.  Toxfuzz will start sending the payloads to the specified API endpoint and display the responses.
 
 ---
