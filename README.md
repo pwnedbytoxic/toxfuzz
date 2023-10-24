@@ -24,11 +24,11 @@ Follow these simple steps to get ToxFuzz up and running:
    git clone https://github.com/yourusername/toxfuzz.git
    ```
 2. `cd` into the directory:
-   ```
+   ```bash
    cd toxfuzz
    ```
 4.   Run the program with the following syntax:
-   ```
+   ```bash
    cat medium.txt | python3 toxfuzz.py
    ```
   - You must change `https://example.com/api/` into your own api
