@@ -27,7 +27,7 @@ Follow these simple steps to get ToxFuzz up and running:
    ```bash
    cd toxfuzz
    ```
-4.   Run the program with the following syntax:
+4. Run the program with the following syntax:
    ```bash
    cat medium.txt | python3 toxfuzz.py
    ```
